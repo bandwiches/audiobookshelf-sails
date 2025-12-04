@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  audiobookshelf-sails:
+  - apiVersion: v2
+    appVersion: 2.4.1
+    created: "2025-12-03T20:50:00.870496-06:00"
+    description: 'A Helm chart for Audiobookshelf: A self-hosted audiobook and podcast
+      server.'
+    digest: a617d745dc4b94c91f7dc0c7982beae77a39101cd9f75573e8386e23bb152c3a
+    name: audiobookshelf-sails
+    type: application
+    urls:
+    - docs/audiobookshelf-sails-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-03T20:50:00.86786-06:00"
