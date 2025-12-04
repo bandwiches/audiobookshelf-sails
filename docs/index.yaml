@@ -10,6 +10,6 @@ entries:
     name: audiobookshelf-sails
     type: application
     urls:
-    - docs/audiobookshelf-sails-0.1.0.tgz
+    - audiobookshelf-sails-0.1.0.tgz
     version: 0.1.0
 generated: "2025-12-03T20:50:00.86786-06:00"
